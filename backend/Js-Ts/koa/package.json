@@ -7,7 +7,10 @@
     "start": "node index.js",
     "dev": "node index.js"
   },
-  "keywords": ["koa", "example"],
+  "keywords": [
+    "koa",
+    "example"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
