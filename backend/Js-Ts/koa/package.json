@@ -1,0 +1,17 @@
+{
+  "name": "koa-server",
+  "version": "1.0.0",
+  "description": "Petit serveur Koa d'exemple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["koa", "example"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "@koa/router": "^10.1.1"
+  }
+}
