@@ -1,0 +1,19 @@
+{
+  "name": "fastify-server",
+  "version": "1.0.0",
+  "description": "Petit serveur Fastify d'exemple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "fastify",
+    "example"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.23.0"
+  }
+}
